@@ -8,6 +8,6 @@ The lessons read like an interactive notebook where you can just click the [![Op
 
 If for some reason you don't see an 'Open in Colab' badge, **don't panic!** just click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com) and copy/paste the lesson that you see on github.
 
-Wether you are new to programming or an avid coder looking to start using Python you can be sure that you will find this program useful. 
+Whether you are new to programming or an avid coder looking to start using Python you can be sure that you will find this program useful. 
 
 ### See you soon!
