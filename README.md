@@ -4,7 +4,7 @@ Hey there! CoffeeBytes is a program that intents to teach the basics of Python w
 
 ## Where do i start?
 
-The lessons read like an interactive notebook where you can just click the [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button, and run the virtual environment with your Google account! No installations, no multiple tabs, just one interactive notebook that you can read and program with. 
+The lessons read like an interactive notebook where you can just click the [!Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) button, and run the virtual environment with your Google account! No installations, no multiple tabs, just one interactive notebook that you can read and program with. 
 
 If for some reason you don't see an 'Open in Colab' badge, don't panic! just click here: [Google Colab](https://colab.research.google.com) 
 
