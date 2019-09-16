@@ -10,4 +10,12 @@ If for some reason you don't see an 'Open in Colab' badge, **don't panic!** just
 
 Whether you are new to programming or an avid coder looking to start using Python you can be sure that you will find this program useful. 
 
+## Meet the team:
+
+* [Enrique](https://github.com/enrprz): *CoffeeBytes Creator, Programs Director - SHPE-UTRGV*
+|__ * [Rodrigo](https://github.com/rodbarr): *Assistant Project Manager - CoffeeBytes*
+* [Antonio](https://github.com/aadame3311): *President of ACM-UTRGV*
+|__ * [Ricardo](https://github.com/RiccardT): *Vice President of ACM-UTRGV*
+* [Carlos](https://github.com/crzaratech): *President of Hack&&Make-UTRGV*
+
 ### See you soon!
