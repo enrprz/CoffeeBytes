@@ -10,12 +10,22 @@ If for some reason you don't see an 'Open in Colab' badge, **don't panic!** just
 
 Whether you are new to programming or an avid coder looking to start using Python you can be sure that you will find this program useful. 
 
+## Timeline:
+
+1. Hello World & Variables [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_01.ipynb)
+|_ 2. Strings & Conditional Statements [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_02.ipynb)
+   |_3. Operators & Loops [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_03.ipynb)
+     |_ 4. Functions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_04.ipynb)
+        |_ Challenge 01: 
+        |_ 5. Classes & Objects [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_05.ipynb)
+           |_ 6. Dictionaries & Modules [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_06.ipynb)
+          
 ## Meet the team:
 
-* [Enrique](https://github.com/enrprz): *CoffeeBytes Creator, Programs Director - SHPE-UTRGV*
-   - [Rodrigo](https://github.com/rodbarr): *Assistant Project Manager - CoffeeBytes*
-* [Antonio](https://github.com/aadame3311): *President of ACM-UTRGV*
-   - [Ricardo](https://github.com/RiccardT): *Vice President of ACM-UTRGV*
-* [Carlos](https://github.com/crzaratech): *President of Hack&&Make-UTRGV*
+* [Enrique](https://github.com/enrprz): *CoffeeBytes Creator, Programs Director* - SHPE-UTRGV
+   - [Rodrigo](https://github.com/rodbarr): *Assistant Project Manager* - CoffeeBytes
+* [Antonio](https://github.com/aadame3311): *President* - ACM-UTRGV
+   - [Ricardo](https://github.com/RiccardT): *Vice President* - ACM-UTRGV
+* [Carlos](https://github.com/crzaratech): *President* - Hack&&Make-UTRGV
 
 ### See you soon!
