@@ -16,7 +16,7 @@ Whether you are new to programming or an avid coder looking to start using Pytho
 2. Strings & Conditional Statements [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_02.ipynb)
 3. Operators & Loops -------------- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_03.ipynb)
 4. Functions ----------------------- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_04.ipynb)
-* Challenge 01 -------------------- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+* Challenge 01 -------------------- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_01_ACM.ipynb)
 5. Classes & Objects -------------- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_05.ipynb)
 6. Dictionaries & Modules --------- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_06.ipynb)
           
