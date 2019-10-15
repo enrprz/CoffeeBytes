@@ -29,7 +29,7 @@ Whether you are new to programming or an avid coder looking to start using Pytho
 * Sorting Algorithms
    + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/temp/CoffeeBytes_02_ACM.ipynb)
 * Coding Interviews 101 + Challenges
-   + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/temp/CoffeeBytes_02_ACM.ipynb#scrollTo=FUU9a9TYlLJv)
+   + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/RiccardT-patch-1/CoffeeBytes_3_ACM.ipynb)
           
 ## Meet the team:
 
