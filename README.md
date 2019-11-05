@@ -30,6 +30,8 @@ Whether you are new to programming or an avid coder looking to start using Pytho
    + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/temp/CoffeeBytes_02_ACM.ipynb)  
 * Coding Interviews 101 + Challenges
    + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/master/CoffeeBytes_3_ACM.ipynb)
+* Challenge: Balanced Brackets
+   + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/enrprz/CoffeeBytes/blob/temp/CoffeeBytes_4_ACM.ipynb)
 
 
 ## Meet the team:
